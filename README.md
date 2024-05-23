@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Congrats Card** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -62,3 +63,7 @@ Use these files to complete the implementation:
 >
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# React-congrats-page
+This project creates a "Congrats Card" using React and JSX. It features a main heading, a paragraph, and an image. The card is rendered with ReactDOM.render().
+>>>>>>> c489a689bc8d4c4a4e881f28f3f9b8928b904278
