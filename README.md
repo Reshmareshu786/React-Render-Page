@@ -67,11 +67,6 @@ Use these files to complete the implementation:
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
 =======
 # React-congrats-page
 This project creates a "Congrats Card" using React and JSX. It features a main heading, a paragraph, and an image. The card is rendered with ReactDOM.render().
->>>>>>> c489a689bc8d4c4a4e881f28f3f9b8928b904278
