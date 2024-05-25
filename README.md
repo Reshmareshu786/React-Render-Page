@@ -1,6 +1,7 @@
 
 ##### This project demonstrates creating a "Congrats Card" using React and JSX. It includes a main heading, a paragraph, and an image, all implemented with JSX syntax. Babel is used to transpile the JSX code, and ReactDOM.render() is utilized to render the components.
 
+
 ## **Features:**
 
 #### _Main Heading_ : A congratulatory heading.
@@ -67,6 +68,3 @@ Use these files to complete the implementation:
 
 </details>
 
-=======
-# React-congrats-page
-This project creates a "Congrats Card" using React and JSX. It features a main heading, a paragraph, and an image. The card is rendered with ReactDOM.render().
